@@ -1,0 +1,39 @@
+.footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 16.5px;
+    background-color: midnightblue;
+    color: aqua;
+    line-height: 4;
+    text-shadow: 4px 4px 4px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+body {
+    background-image: linear-gradient(rgb(23, 160, 214), rgb(18, 41, 219), rgb(37, 57, 239));
+}
+
+.header_div {
+    background-color: midnightblue;
+    color: aqua
+}
+
+.header_div p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aquamarine;
+    letter-spacing: 2.5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.name_div button {
+    font-family: 'Rajdhani', sans-serif;
+    color: black;
+    padding: 6.5px;
+    width: 140px;
+    letter-spacing: 2.5px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
